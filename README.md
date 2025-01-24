@@ -30,13 +30,13 @@ cd dynamic-form-builder
 1. Install dependencies:
 
     npm install
-    # OR
+    ##### OR
     yarn install
 
 3. Start the application:
 
     npm start
-    # OR
+    ##### OR
     yarn start
 
 4. Open the application: Navigate to http://localhost:3000 in your browser.
